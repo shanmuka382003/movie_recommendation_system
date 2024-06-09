@@ -10,4 +10,4 @@ Open PyCharm and create a new project. Paste the code from the file in the repos
 **Note: Install any dependencies or libraries required in PyCharm**
 **Note: Ensure that all the .pkl files in the jupyter notebook folder are also placed in the PyCharm project folder.**
 
-At the end run "run app" command in the terminal of PyCharm.
+At the end run "streamlit run app.py" command in the terminal of PyCharm.
